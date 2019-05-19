@@ -1,0 +1,214 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/about/",
+            "text": "Virtutis angulus momordi\n\n\nSatis thyrsos\n\n\nLorem markdownum esse permulcetque accipit nisi quod cum Neptune confiteor\nincursus, mihi in exstinctus nulla. Postquam inmixtos auditum \naer\n?\n\n\n\n\nQui accipitrem \nmodo unguibus seque\n undarum,\nfer albus et in auxilioque est lenius. Supereminet iuris. Sibi cum cognoscere\nharenis suis age et dum micant dolentem!\n\n\n\n\nDomitis \nrelictis\n gerat sollicitis labe concumbere dolore, ora venata Aesonis.\nAlii \ntradit iurare\n foedantem tendere.\n\n\nPerdam Aiax formae, maligne tu gelido \nIuppiter vi illa\n fratri in. Achillem\ncernes \naccensus\n, ullam animus misit; per novis adspexit volandi; cucurri?\nNumitorque utraque patria bos qui quae viderem: superstitibus tuum.\n\n\nSagittis hastam vir dolorem limosaque alta atrisque\n\n\nE \nlongam et certo\n spoliantis et alveo? Quam domum caluere, ipsa canes ut\nLivor scelus ad castae est \nnuper\n.\n\n\nif (print_zettabyte(install_flaming_meta)) {\n    java.algorithm *= -3;\n}\ndisk = tcp(5 * windows_java_capacity.speed_eps.samba(abend_kilobyte,\n        sharewareOspf, igp), kvmGraphic(4, map));\nif (virus + reader) {\n    teraflopsTroll = subdirectory;\n} else {\n    iteration_skin_video(52, caseRuntimeMegahertz, spywareSpeed);\n    runtimeNewsgroup += telecommunications_install;\n    ios_shortcut = ddr_barcraft + 2 - hackerUnfriend;\n}\nclone.bareProtocol(p_enterprise(favicon_footer_toggle(ios,\n        executable_nanometer, smartphoneSchema), -5));\nif (service + media_cdma.desktopAixOutbox.usernameWordDisk(recursiveMode)) {\n    fragmentation = barDvEngine(sdDataSmishing);\n    dtdPrinterDac = utilityLpiDownload;\n    inkjet_services.websiteLedPage -= 16;\n}\n\n\n\nTogaque nemorum nos tum lilia ad solus et haec vitarit pares dilectaque mihi\nducta interque. Moriens telo, mirantur me ora mea \nlinguae\n, est non. Molimine\nsagittas. Conscia Abas \nest\n; imo Semele\n\nvoveam\n, sine tum attolle damnatque naturae\ncortice; sol.\n\n\nif (ring_hyper == backlink_petaflops) {\n    ddlCommercialFlat = -1 + dll_ssl;\n    dynamicVideo.upsOop = 82 + -4;\n    multimedia_plain(restore);\n} else {\n    bin_compression.laser_quad_expansion(nntp + keyboard,\n            streaming_control_lte);\n    wais(snapshot_hard);\n}\nif (boot(3, 1)) {\n    sourceRpm -= 2;\n    dialogSambaDashboard(31 + gamma);\n} else {\n    fddi_desktop += samplingPop;\n    dram_thin.crt(rpc, php);\n}\nif (mask.web(engine_third, internic(2, express_sector, chipSdsl))) {\n    prom(1);\n    formatYobibyteLaser.class.user_file(suffix_mode_cdma(-4, extranet));\n    raw += supply_kde;\n} else {\n    jquery_metal_tooltip(pseudocode_ctp, mebibyte_trackback_module - daw,\n            bandwidth_name_link.reader_intellectual(\n            operation_add_southbridge));\n}\numlSmart = ping_dsl(keyboard.northbridge_primary(pageServicesPetabyte,\n        copyrightPrinter.margin_icio_flaming.codecDomain(frequencyAppOem,\n        multimediaMenu)));\n\n\n\nFerro et traxit marito, ad adit utque fervidus tam \nrisit numina\n. His pectore\ncadunt formae ulla Palicorum regis ministrarum furit \nmanus vernum\n. Ab illi\nvirgas de pomi decipit \nbella uterque\n ore:\nIuppiter! Hac redituram Arcton rabieque recta Oribasos, unde caelum. Tuis mora\nvirtute amore habent qvem cinerem positis turris illa perfida flumina populi\ndant.",
+            "title": "About"
+        },
+        {
+            "location": "/about/#virtutis-angulus-momordi",
+            "text": "",
+            "title": "Virtutis angulus momordi"
+        },
+        {
+            "location": "/about/#satis-thyrsos",
+            "text": "Lorem markdownum esse permulcetque accipit nisi quod cum Neptune confiteor\nincursus, mihi in exstinctus nulla. Postquam inmixtos auditum  aer ?   Qui accipitrem  modo unguibus seque  undarum,\nfer albus et in auxilioque est lenius. Supereminet iuris. Sibi cum cognoscere\nharenis suis age et dum micant dolentem!   Domitis  relictis  gerat sollicitis labe concumbere dolore, ora venata Aesonis.\nAlii  tradit iurare  foedantem tendere.  Perdam Aiax formae, maligne tu gelido  Iuppiter vi illa  fratri in. Achillem\ncernes  accensus , ullam animus misit; per novis adspexit volandi; cucurri?\nNumitorque utraque patria bos qui quae viderem: superstitibus tuum.",
+            "title": "Satis thyrsos"
+        },
+        {
+            "location": "/about/#sagittis-hastam-vir-dolorem-limosaque-alta-atrisque",
+            "text": "E  longam et certo  spoliantis et alveo? Quam domum caluere, ipsa canes ut\nLivor scelus ad castae est  nuper .  if (print_zettabyte(install_flaming_meta)) {\n    java.algorithm *= -3;\n}\ndisk = tcp(5 * windows_java_capacity.speed_eps.samba(abend_kilobyte,\n        sharewareOspf, igp), kvmGraphic(4, map));\nif (virus + reader) {\n    teraflopsTroll = subdirectory;\n} else {\n    iteration_skin_video(52, caseRuntimeMegahertz, spywareSpeed);\n    runtimeNewsgroup += telecommunications_install;\n    ios_shortcut = ddr_barcraft + 2 - hackerUnfriend;\n}\nclone.bareProtocol(p_enterprise(favicon_footer_toggle(ios,\n        executable_nanometer, smartphoneSchema), -5));\nif (service + media_cdma.desktopAixOutbox.usernameWordDisk(recursiveMode)) {\n    fragmentation = barDvEngine(sdDataSmishing);\n    dtdPrinterDac = utilityLpiDownload;\n    inkjet_services.websiteLedPage -= 16;\n}  Togaque nemorum nos tum lilia ad solus et haec vitarit pares dilectaque mihi\nducta interque. Moriens telo, mirantur me ora mea  linguae , est non. Molimine\nsagittas. Conscia Abas  est ; imo Semele voveam , sine tum attolle damnatque naturae\ncortice; sol.  if (ring_hyper == backlink_petaflops) {\n    ddlCommercialFlat = -1 + dll_ssl;\n    dynamicVideo.upsOop = 82 + -4;\n    multimedia_plain(restore);\n} else {\n    bin_compression.laser_quad_expansion(nntp + keyboard,\n            streaming_control_lte);\n    wais(snapshot_hard);\n}\nif (boot(3, 1)) {\n    sourceRpm -= 2;\n    dialogSambaDashboard(31 + gamma);\n} else {\n    fddi_desktop += samplingPop;\n    dram_thin.crt(rpc, php);\n}\nif (mask.web(engine_third, internic(2, express_sector, chipSdsl))) {\n    prom(1);\n    formatYobibyteLaser.class.user_file(suffix_mode_cdma(-4, extranet));\n    raw += supply_kde;\n} else {\n    jquery_metal_tooltip(pseudocode_ctp, mebibyte_trackback_module - daw,\n            bandwidth_name_link.reader_intellectual(\n            operation_add_southbridge));\n}\numlSmart = ping_dsl(keyboard.northbridge_primary(pageServicesPetabyte,\n        copyrightPrinter.margin_icio_flaming.codecDomain(frequencyAppOem,\n        multimediaMenu)));  Ferro et traxit marito, ad adit utque fervidus tam  risit numina . His pectore\ncadunt formae ulla Palicorum regis ministrarum furit  manus vernum . Ab illi\nvirgas de pomi decipit  bella uterque  ore:\nIuppiter! Hac redituram Arcton rabieque recta Oribasos, unde caelum. Tuis mora\nvirtute amore habent qvem cinerem positis turris illa perfida flumina populi\ndant.",
+            "title": "Sagittis hastam vir dolorem limosaque alta atrisque"
+        },
+        {
+            "location": "/block_driver/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.",
+            "title": "Block driver"
+        },
+        {
+            "location": "/block_driver/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/c_programing/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "C programing"
+        },
+        {
+            "location": "/c_programing/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/c_programing/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/c_programing/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/char_driver/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.",
+            "title": "Char driver"
+        },
+        {
+            "location": "/char_driver/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/continuous_integration/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Continuous integration"
+        },
+        {
+            "location": "/continuous_integration/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/continuous_integration/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/continuous_integration/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/data_logger/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Data logger"
+        },
+        {
+            "location": "/data_logger/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/data_logger/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/data_logger/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/gpio/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.",
+            "title": "Gpio"
+        },
+        {
+            "location": "/gpio/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/iio/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Iio"
+        },
+        {
+            "location": "/iio/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/iio/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/iio/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/link_list/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.",
+            "title": "Link list"
+        },
+        {
+            "location": "/link_list/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/network_driver/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.",
+            "title": "Network driver"
+        },
+        {
+            "location": "/network_driver/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/windriver_linux/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Windriver linux"
+        },
+        {
+            "location": "/windriver_linux/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/windriver_linux/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/windriver_linux/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/zynq/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Zynq"
+        },
+        {
+            "location": "/zynq/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/zynq/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/zynq/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        }
+    ]
+}
